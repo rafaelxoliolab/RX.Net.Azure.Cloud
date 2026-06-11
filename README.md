@@ -1,5 +1,7 @@
 # Net Azure Cloud
-Learning project for .NET Azure Cloud
+Learning project for .NET Azure Cloud.
+By Rafael Xolio
+
 
 
 ## Cloud-native environments
