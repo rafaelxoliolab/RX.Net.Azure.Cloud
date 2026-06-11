@@ -50,6 +50,9 @@ The following table highlights the Twelve-Factor methodology:
 <img width="647" height="413" alt="image" src="https://github.com/user-attachments/assets/80855828-affb-46cb-81c4-8ccc8ed2e0b8" />
 <img width="644" height="433" alt="image" src="https://github.com/user-attachments/assets/7d52defc-becd-4b61-8128-8333d1c0410a" />
 
+Three new factors:
+<img width="643" height="263" alt="image" src="https://github.com/user-attachments/assets/009d10bf-9058-4694-aecb-e5618a636f48" />
+
 
 
 
