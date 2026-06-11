@@ -25,5 +25,8 @@ You'll design and maintain integrations, APIs, and event-driven solutions on Azu
 - Note how the application is decomposed across a set of small isolated microservices.
 - Each service is self-contained and encapsulates its own code, data, and dependencies.
 - Each service is deployed in a software container and managed by a container orchestrator.
-- Instead of a large relational database, each service owns it own datastore, the type of which vary based upon the data needs. Note how some services depend on a relational database, but other on NoSQL databases. One service stores its state in a distributed cache. Note how all traffic routes through an API Gateway service that is responsible for routing traffic to the core back-end services and enforcing many cross-cutting concerns. Most importantly, the application takes full advantage of the scalability, availability, and resiliency features found in modern cloud platforms.
+- Instead of a large relational database, each service owns it own datastore, the type of which vary based upon the data needs.
+- Note how some services depend on a relational database, but other on NoSQL databases. One service stores its state in a distributed cache.
+- Note how _all traffic routes through an API Gateway service_ that is responsible for routing traffic to the core back-end services and enforcing many cross-cutting concerns.
+- Most importantly, the application takes full advantage of the _scalability, availability, and resiliency features_ found in modern cloud platforms.
 
