@@ -22,6 +22,7 @@ You'll design and maintain integrations, APIs, and event-driven solutions on Azu
 ### Cloud-native design
 <img width="623" height="404" alt="image" src="https://github.com/user-attachments/assets/28baa738-36fd-40aa-8404-6d5458d72d12" />
 
+
 - Note how the application is decomposed across a set of small isolated microservices.
 - Each service is self-contained and encapsulates its own code, data, and dependencies.
 - Each service is deployed in a software container and managed by a container orchestrator.
@@ -29,4 +30,13 @@ You'll design and maintain integrations, APIs, and event-driven solutions on Azu
 - Note how some services depend on a relational database, but other on NoSQL databases. One service stores its state in a distributed cache.
 - Note how _all traffic routes through an API Gateway service_ that is responsible for routing traffic to the core back-end services and enforcing many cross-cutting concerns.
 - Most importantly, the application takes full advantage of the _scalability, availability, and resiliency features_ found in modern cloud platforms.
+
+
+### What is Cloud Native?
+The Cloud Native Computing Foundation provides the official definition:
+'''
+Cloud-native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. Containers, service meshes, microservices, immutable infrastructure, and declarative APIs exemplify this approach.
+These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil.
+'''
+
 
