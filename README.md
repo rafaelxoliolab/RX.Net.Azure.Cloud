@@ -4,7 +4,6 @@ Learning project for .NET Azure Cloud.
 By Rafael Xolio
 
 
-
 ## Cloud-native environments
 You'll design and maintain integrations, APIs, and event-driven solutions on Azure.
 
@@ -32,12 +31,28 @@ You'll design and maintain integrations, APIs, and event-driven solutions on Azu
 - Most importantly, the application takes full advantage of the _scalability, availability, and resiliency features_ found in modern cloud platforms.
 
 
-### What is Cloud Native?
+## What is Cloud Native?
 The Cloud Native Computing Foundation provides the official definition:
 
-_Cloud-native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. Containers, service meshes, microservices, immutable infrastructure, and declarative APIs exemplify this approach.
+_Cloud-native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. Containers, service meshes, microservices, immutable infrastructure, and declarative APIs exemplify this approach._
 
-These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil._
+_These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil._
+
+- Cloud native is about speed and agility.
+- Cloud-native systems are designed to embrace rapid change, large scale, and resilience.
+
+<img width="640" height="269" alt="image" src="https://github.com/user-attachments/assets/7ba462c5-4c98-41cb-9ffe-581c9c5b7a9a" />
+
+## The Twelve-Factor Application
+
+The following table highlights the Twelve-Factor methodology:
+<img width="648" height="406" alt="image" src="https://github.com/user-attachments/assets/516a4e73-71c6-4d88-ba9b-aa027322ea51" />
+<img width="647" height="413" alt="image" src="https://github.com/user-attachments/assets/80855828-affb-46cb-81c4-8ccc8ed2e0b8" />
+<img width="644" height="433" alt="image" src="https://github.com/user-attachments/assets/7d52defc-becd-4b61-8128-8333d1c0410a" />
+
+
+
+
 
 
 
